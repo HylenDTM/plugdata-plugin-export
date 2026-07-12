@@ -1,9 +1,9 @@
 [
   {
-    "name": "N-SILK",
+    "name": "N-CURVE COMP",
     "author": "Nasko",
-    "path": "Plugins/N-SILK.plugdata",
-    "patch": "N-SILK.pd",
+    "path": "Plugins/N-CURVE COMP.plugdata",
+    "patch": "N-CURVE COMP.pd",
     "formats": ["VST3"],
     "type": "fx",
     "version": "1.0.1",
