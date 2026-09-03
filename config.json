@@ -1,12 +1,12 @@
 [
   {
     "name": "SERPENT BETA 1",
-    "author": "Nasko",
+    "author": "Borrasca & Nasko",
     "path": "Plugins/SERPENT_BETA_1.plugdata",
-    "patch": "SERPENT_BETA_1.pd",
+    "patch": "SERPENT BETA 1.pd",
     "formats": ["VST3"],
     "type": "fx",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "enable_gem": false,
     "enable_sfizz": false,
     "enable_ffmpeg": false
