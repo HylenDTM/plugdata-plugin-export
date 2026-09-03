@@ -1,9 +1,9 @@
 [
   {
-    "name": "N-CURVE COMP",
+    "name": "SERPENT_BETA_1",
     "author": "Nasko",
-    "path": "Plugins/N-CURVE COMP.plugdata",
-    "patch": "N-CURVE COMP.pd",
+    "path": "Plugins/SERPENT_BETA_1.plugdata",
+    "patch": "SERPENT_BETA_1.pd",
     "formats": ["VST3"],
     "type": "fx",
     "version": "1.0.1",
