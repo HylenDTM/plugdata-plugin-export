@@ -2,7 +2,7 @@
   {
     "name": "SERPENT BETA 1",
     "author": "Borrasca & Nasko",
-    "path": "Plugins/SERPENT_BETA_1.plugdata",
+    "path": "Plugins/SERPENT BETA 2.plugdata",
     "patch": "SERPENT BETA 1.pd",
     "formats": ["VST3"],
     "type": "fx",
